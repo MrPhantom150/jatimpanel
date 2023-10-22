@@ -986,10 +986,10 @@ def login():
     password = getpass.getpass(prompt='💻 Password: ')
     if username != user or password != passwd:
         print("")
-        print("🚀 Sorry, wrong password, please try again...")
+        print("🙅 Sorry, wrong password, please try again...")
         sys.exit(1)
     elif username == user and password == passwd:
-        print("🚀 Welcome to JATIM STRESSER!")
+        print("🧾 Welcome to JATIM STRESSER!")
         time.sleep(0.3)
         ascii_vro()
         main()
