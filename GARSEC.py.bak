@@ -1,6 +1,6 @@
 ##############################
-# DDOSS Made by FAHX7NONEXEC   #
-# COPY = FAHX7NONEXEC             #
+# DDOSS Made by HACKTIVIST JATIM  #
+# COPY = HACKTIVIST JATIM            #
 ##############################
 
 import socket
@@ -122,7 +122,7 @@ def tools():
 def banners():
     clear()
     si()
-    os.system(f'figlet -r GARUDA BANNERS | lolcat')
+    os.system(f'figlet -r PANEL BANNERS | lolcat')
     print(f'''
                                 \x1b[38;2;0;212;14m╔═══════════════╗
                                 \x1b[38;2;0;212;14m║     \x1b[38;2;0;255;255mBanners   \x1b[38;2;0;212;14m║
@@ -138,23 +138,23 @@ def banners():
 def rules():
     clear()
     si()
-    os.system(f'figlet -r GARUDA RULES | lolcat')
+    os.system(f'figlet -r PANEL RULES | lolcat')
     print(f'''
                                 \x1b[38;2;0;212;14m╔═══════════════╗
                                 \x1b[38;2;0;212;14m║     \x1b[38;2;0;255;255mRules     \x1b[38;2;0;212;14m║
                 \x1b[38;2;0;212;14m╔═══════════════╩═══════════════╩═══════════════╗
-                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m2. Hanya tujuan pengetesan               \x1b[38;2;0;212;14m║
-                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m4. Only attack stress testing servers         \x1b[38;2;0;212;14m║
-                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m5. Don't skid the panel                       \x1b[38;2;0;212;14m║
-                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m6. Give a star to the github repository       \x1b[38;2;0;212;14m║
-                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m7. The creator does not do any harm           \x1b[38;2;0;212;14m║
+                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m1. Hanya tujuan pengetesan dan kebenaran               \x1b[38;2;0;212;14m║
+                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m2. Only attack stress testing servers         \x1b[38;2;0;212;14m║
+                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m3. Don't skid the panel                       \x1b[38;2;0;212;14m║
+                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m4. don't misuse it        \x1b[38;2;0;212;14m║
+                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m5. The creator does not do any harm           \x1b[38;2;0;212;14m║
                 \x1b[38;2;0;212;14m╚═══════════════════════════════════════════════╝
 ''')
 
 def ports():
     clear()
     si()
-    os.system(f'figlet -r GARUDA PORTCHK | lolcat')
+    os.system(f'figlet -r HACKTIVIST PORTCHK | lolcat')
     print(f'''
                                 \x1b[38;2;0;212;14m╔═══════════════╗
                                 \x1b[38;2;0;212;14m║     \x1b[38;2;0;255;255mPorts     \x1b[38;2;0;212;14m║
@@ -171,7 +171,7 @@ def ports():
 def special():
     clear()
     si()
-    os.system(f'figlet -r WOLF SPECIAL | lolcat')
+    os.system(f'figlet -r JATIM SPECIAL | lolcat')
     print(f'''
                                 \x1b[38;2;0;212;14m╔═══════════════╗
                                 \x1b[38;2;0;212;14m║    \x1b[38;2;0;255;255mSpecial    \x1b[38;2;0;212;14m║
@@ -306,24 +306,26 @@ idap \x1b[38;2;0;255;255m ► \x1b[38;2;0;255;255mserver Attack games
 ''')
 
 def exit_program():
-    print(f'''Sedang keluar''')
+    clear()
+    si()
     sys.exit()
+    print('''Sedang keluar mohon tunggu ya''')
 
 
 def menu():
-    os.system(f'figlet -r WELCOME TO GARSEC | lolcat')
-    sys.stdout.write(f"         \x1b]2;GARUDA OFC PANEL --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
+    os.system(f'figlet -r WELCOME TO HACKTIVIST JATIM| lolcat')
+    sys.stdout.write(f"         \x1b]2;PREMIUM HACKTIVIST PANEL --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
     clear()
-    print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mRoot:GARSEC \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to WOLF PANEL\x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: ALL TEAM GARSEC \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v1.1')
+    print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mRoot:GARSEC \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to JATIM PANEL\x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: Mr.Phantom  \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v1.1')
     print("")
     print("""
 
                 \x1b[38;2;0;212;14m╔═══════════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════════╗
-                \x1b[38;2;0;212;14m║        \x1b[38;2;239;239;239mWelcome to WOLF PANEL STRESSER C2     \x1b[38;2;0;49;147m║
-                \x1b[38;2;0;212;14m║ \x1b[38;2;0;49;147m- - - - - - \x1b[38;2;239;239;239mFree DDoS Panel 2023\x1b[38;2;0;212;14m- - - - - - -\x1b[38;2;0;49;147m║
+                \x1b[38;2;0;212;14m║        \x1b[38;2;239;239;239mWelcome to JATIM PANEL STRESSER C2     \x1b[38;2;0;49;147m║
+                \x1b[38;2;0;212;14m║ \x1b[38;2;0;49;147m- - - - - - \x1b[38;2;239;239;239mPremium DDoS Panel 2023\x1b[38;2;0;212;14m- - - - - - -\x1b[38;2;0;49;147m║
                 \x1b[38;2;0;212;14m╚═══════════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════════╝
                     \x1b[38;2;0;212;14m╔═══════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════╗
-                    \x1b[38;2;0;212;14m║         \x1b[38;2;239;239;239mt.me/OFCTEAMGRD              \x1b[38;2;0;49;147m║
+                    \x1b[38;2;0;212;14m║         \x1b[38;2;239;239;239mt.me/HACTIVISTJATIMTOOLS              \x1b[38;2;0;49;147m║
                     \x1b[38;2;0;212;14m╚═══════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════╝
                 \x1b[38;2;0;212;14m╔═══════════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════════╗
                 \x1b[38;2;0;212;14m║   \x1b[38;2;239;239;239m   Type help to see the all commands.      \x1b[38;2;0;49;147m║
@@ -354,7 +356,7 @@ def main():
         elif cnc == "banner" or cnc == "BANNER" or cnc == "banners" or cnc == "BANNERS":
             banners()
         elif cnc == "exit" or cnc == "ext" or cnc == "EXIT" or cnc == "Exit":
-            exit_program
+            exit_program()
 
 # LAYER 4 METHODS   
 
@@ -536,9 +538,7 @@ def main():
                
                 os.system(f'python3 eagle.py')
                 
-        elif "KARMA-DDOS" in cnc:
-        
-                os.system(f'python3 main.py')
+                
                                  
                 
 # AMP/GAMES METHODS
@@ -968,7 +968,6 @@ PORTS   ► SHOW ALL PORTS
 TOOLS   ► SHOW TOOLS
 CLEAR   ► CLEAR TERMINAL
 EAGLE   ► SHOW EAGLE TOOLS
-KARMA-DDOS   ► SHOW KARMA TOOLS
 Exit ► Keluar dari tools
             ''')
 
@@ -982,16 +981,16 @@ Exit ► Keluar dari tools
 
 def login():
     clear()
-    user = "GARUDA"
-    passwd = "GARUDA"
-    username = input("🚀 Username: ")
-    password = getpass.getpass(prompt='🚀 Password: ')
+    user = "admin"
+    passwd = "jatimpin"
+    username = input("💻 Username: ")
+    password = getpass.getpass(prompt='💻 Password: ')
     if username != user or password != passwd:
         print("")
-        print("🚀 PASS NYA SALAH COBA ULANGI...")
+        print("🚀 Sorry, wrong password, please try again...")
         sys.exit(1)
     elif username == user and password == passwd:
-        print("🚀 Welcome to GARUDA STRESSER!")
+        print("🚀 Welcome to JATIM STRESSER!")
         time.sleep(0.3)
         ascii_vro()
         main()
