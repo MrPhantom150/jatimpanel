@@ -315,7 +315,7 @@ def menu():
     os.system(f'figlet -r WELCOME TO HACKTIVIST JATIM| lolcat')
     sys.stdout.write(f"         \x1b]2;PREMIUM HACKTIVIST PANEL --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
     clear()
-    print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mRoot: HACKTIVIST JATIM\x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to JATIM PANEL\x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: Mr.Phantom  \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v1.1')
+    print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233mRoot: HACKTIVIST JATIM modification of OFC\x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to JATIM PANEL\x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mOwner: Mr.Phantom  \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mUpdate v1.1')
     print("")
     print("""
 
